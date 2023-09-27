@@ -1,0 +1,46 @@
+h1 {
+    color: red;
+    background-color: aqua;
+    font-family: sans-serif;
+    font-size: 100px;
+    height: 400px;
+    width: 50%;
+  }
+  p {
+    color: salmon;
+  }
+  img {
+    height: 50%;
+    width: 50%;
+  }
+  #dipok {
+    color: blue;
+    font-size: 100px;
+  }
+  #puja {
+    color: brown;
+  }
+  h1.dipok{
+    background-color: chartreuse;
+  }
+  .puja{
+    background-color: black;
+  }
+  .dipok{
+    background-color: purple;
+  }
+  #ddd{
+    color: red;
+  }
+  .ppp{
+    background-color: orange;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    height: 100px;
+    width: 40%;
+    text-align: center;
+    display: inline-block;
+    float: right;
+  }
